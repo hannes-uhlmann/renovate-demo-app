@@ -4,6 +4,10 @@
     "config:recommended",
     "mergeConfidence:all-badges"
   ],
+  "schedule": ["after 10pm and before 6am"],
+  "timezone": "Europe/Berlin",
+  "prConcurrentLimit": 3,
+  "minimumReleaseAge": "3 days",
   "packageRules": [
     {
       "matchDepTypes": [
